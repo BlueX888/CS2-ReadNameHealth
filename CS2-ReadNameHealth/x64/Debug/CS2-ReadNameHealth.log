@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\李朝然\Desktop\CS2-ReadNameHealth\CS2-ReadNameHealth\main.cpp(16,52): warning C4244: “参数”: 从“DWORD64”转换到“DWORD”，可能丢失数据
+C:\Users\李朝然\Desktop\CS2-ReadNameHealth\CS2-ReadNameHealth\main.cpp(23,25): warning C4244: “初始化”: 从“T”转换到“DWORD”，可能丢失数据
+C:\Users\李朝然\Desktop\CS2-ReadNameHealth\CS2-ReadNameHealth\main.cpp(23,25): warning C4244:         with
+C:\Users\李朝然\Desktop\CS2-ReadNameHealth\CS2-ReadNameHealth\main.cpp(23,25): warning C4244:         [
+C:\Users\李朝然\Desktop\CS2-ReadNameHealth\CS2-ReadNameHealth\main.cpp(23,25): warning C4244:             T=DWORD64
+C:\Users\李朝然\Desktop\CS2-ReadNameHealth\CS2-ReadNameHealth\main.cpp(23,25): warning C4244:         ]
+  CS2-ReadNameHealth.vcxproj -> C:\Users\李朝然\Desktop\CS2-ReadNameHealth\x64\Debug\CS2-ReadNameHealth.exe

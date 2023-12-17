@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CS2-ReadNameHealth", "CS2-ReadNameHealth\CS2-ReadNameHealth.vcxproj", "{839103C8-7E36-4F01-A702-4E4961FE87EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{839103C8-7E36-4F01-A702-4E4961FE87EB}.Debug|x64.ActiveCfg = Debug|x64
+		{839103C8-7E36-4F01-A702-4E4961FE87EB}.Debug|x64.Build.0 = Debug|x64
+		{839103C8-7E36-4F01-A702-4E4961FE87EB}.Debug|x86.ActiveCfg = Debug|Win32
+		{839103C8-7E36-4F01-A702-4E4961FE87EB}.Debug|x86.Build.0 = Debug|Win32
+		{839103C8-7E36-4F01-A702-4E4961FE87EB}.Release|x64.ActiveCfg = Release|x64
+		{839103C8-7E36-4F01-A702-4E4961FE87EB}.Release|x64.Build.0 = Release|x64
+		{839103C8-7E36-4F01-A702-4E4961FE87EB}.Release|x86.ActiveCfg = Release|Win32
+		{839103C8-7E36-4F01-A702-4E4961FE87EB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11107506-832C-41F1-8182-977870C2482C}
+	EndGlobalSection
+EndGlobal
